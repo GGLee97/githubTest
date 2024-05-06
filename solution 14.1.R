@@ -5,6 +5,7 @@ rm(list = ls())
 
 ## GIT ##
 ## git test change made ##
+## git test change made in git hub##
 
 # Setting the random number generator seed so that our results are reproducible
 # (Your solution doesn't need this, but it's usually good practice to do)
